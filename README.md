@@ -1,7 +1,7 @@
 # University of Greenwich 
 # MSc Computer Science Modules (Sample)
 
-##Screenshot of course list homepage
+## Screenshot of course list homepage
 
 ![alt](images/course_list.png)
 
